@@ -3,7 +3,6 @@ import Head from 'next/head';
 import ArticleList from '../components/ArticleList';
 
 export default function Home({ articles }) {
-  console.log(articles);
   return (
     <div>
       <Head>
