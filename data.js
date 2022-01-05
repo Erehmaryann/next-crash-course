@@ -3,7 +3,7 @@ export const articles = [
         id: '1',
         title: 'GitHub introduces dark mode and auto-merge pull request',
         excerpt: 'GitHub today announceed a bunch of new features at its virtual GitHub...',
-        body: 'GitHub today announceed a bunch of new features at its virtual GitHub Universe conference including dark mode, auto-marge pull requests, and Enterprise Server 3.0. In the past couple of years, almost all major apps have rolled out a dark theme for its users, so why not GitHub?',
+        body: 'GitHub today announceed a bunch of new features at its virtual GitHub Universe conference including dark mode, auto-merge pull requests, and Enterprise Server 3.0. In the past couple of years, almost all major apps have rolled out a dark theme for its users, so why not GitHub?',
     },
     {
         id: '2',
