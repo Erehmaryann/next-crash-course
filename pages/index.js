@@ -1,15 +1,10 @@
 /* eslint-disable react/jsx-key */
-import Head from 'next/head';
 import { server } from '../config';
 import ArticleList from '../components/ArticleList';
 
 export default function Home({ articles }) {
   return (
     <div>
-      <Head>
-        <title>WebDev Newz</title>
-        <meta name='keywords' content='web development, programming' />.
-      </Head>
       <ArticleList articles={articles} />
     </div>
   );
